@@ -99,7 +99,7 @@ printf "\e[1;92m[\e[0m xlr8\e[1;92m ]\e[0m \e[1;93mEnter target  >>> \e[0m\n"
 read -p '---------------> ' targett
 printf "\n"
 echo $targett > targetlist.txt
-printf ">~~~>\e[1;92m Starting Attack On +91$targett \e[0m<~~~<"
+printf ">~~~>\e[1;92m Starting Attack On +234$targett \e[0m<~~~<"
 sleep 1
 echo ""
 echo ""
