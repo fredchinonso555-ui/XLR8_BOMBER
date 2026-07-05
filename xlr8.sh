@@ -72,7 +72,7 @@ sleep 1
 echo ""
 cd ..
 rm -rf XLR8_BOMBER
-git clone https://github.com/mikiadarsh25/XLR8_BOMBER
+git clone https://github.com/fredchinonso555-ui/XLR8_BOMBER
 cd XLR8_BOMBER
 chmod +x xlr8.sh
 clear
